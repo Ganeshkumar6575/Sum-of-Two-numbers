@@ -7,5 +7,6 @@ int main()
     cin>>a;
     cout<<"Enter the 2nd Element"<<endl;
     cin>>b;
+    cout<<"Result"<<endl;
     cout<<a+b<<endl;
 }
